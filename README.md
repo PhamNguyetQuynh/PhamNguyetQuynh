@@ -1,4 +1,10 @@
-### Hi there 👋
+# Pham Nguyet Quynh
+## Student
+I'm currently a 1st year student at University of Information Technology, HCMC
+## Skills and Experiences:
+C++
+HTML
+## In-progress:
+CSS
+## You can find me at:
 
-I'm Pham Nguyet Quynh from VietNam and I'm currently a 1st student at University of Information Technology, HCMC.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhamNguyetQuynh)](https://github.com/anuraghazra/github-readme-stats)
