@@ -1,7 +1,7 @@
 # Pham Nguyet Quynh
 
 ## <p align="center"> Wellll...Some information about me ✨👏✨ </p>
-<a href="https://ibb.co/4pWhLDQ"><img src="https://i.ibb.co/hVs3Nnq/bn.png" alt="bn" border="0" width="100%"></a>
+<a href="https://ibb.co/5crc6wG"><img src="https://i.ibb.co/9YbYNSc/Untitled7-20211103210705.png" alt="Untitled7-20211103210705" border="0" width="100%"></a>
 
 <p align="left"> 🍸 Hi! I'm Pham Nguyet Quynh from Viet Nam. <br>🍸 I'm currently a 1st year student at University of Information Technology, HCMC.</p>
 <p align="left"> 🍸 Fun fact: I usually create masterpiece (in my opinion) by mistake.</p>
