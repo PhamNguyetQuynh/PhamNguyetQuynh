@@ -5,8 +5,9 @@
 
 <p align="left"> 🍸 Hi! I'm Pham Nguyet Quynh from Viet Nam. 
    <br>
-   🍸 I'm currently a 1st year student (Software Engineering major) at University of Information Technology - Vietnam National University (UIT - VNU-HCM).  </p>
-
+   🍸 I'm currently a 3rd year student at University of Information Technology - Vietnam National University (UIT - VNU-HCM).  </p>
+<br>
+I have some products already but I'm lazy to fix the banner 
 
 ## <h3 align="left">Languages and Tools:</h3>
 
